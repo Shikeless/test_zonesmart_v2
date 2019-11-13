@@ -1,0 +1,32 @@
+.aspectsWindow {
+  position: relative;
+  margin-top: 1%;
+  margin-bottom: 3%;
+  left: 2.5%;
+  width: 95%;
+  overflow: auto;
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.table {
+  /* min-width: auto !important; */
+  float: left;
+  height: 500px;
+  border: 1px solid grey;
+  overflow: auto;
+}
+
+.button {
+  margin-top: 2.5%;
+  margin-left: 2.5%;
+}
+
+.input {
+  margin-top: 20px;
+  padding-bottom: 30px;
+  width: 600px;
+}

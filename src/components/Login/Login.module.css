@@ -1,0 +1,15 @@
+.root {
+    margin-left: 35%;
+    margin-top: 10%;
+    height: 20%;
+    width: 30%;
+    border: 0px solid lightgrey;
+    border-radius: 10px;
+    padding: 20px;
+    overflow: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.formElement {
+    float: right;
+}
